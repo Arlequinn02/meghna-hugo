@@ -1,3 +1,6 @@
+---
+- id: new test
+  translation: 'yes'
 - id: blogTitle
   translation: Dernier message
 - id: readMore
