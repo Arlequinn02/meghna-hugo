@@ -1,0 +1,17 @@
+---
+label: new
+hide_body: true
+fields:
+- type: field_group_list
+  name: Fr
+  label: Fr
+  fields:
+  - type: text
+    name: id
+    label: id
+  - type: text
+    name: translation
+    label: translation
+- type: text
+  name: title
+  label: title
